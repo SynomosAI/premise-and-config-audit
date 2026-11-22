@@ -1,0 +1,23 @@
+{
+  "algorithm": "sha256(sorted relpath + NUL + file sha256, per line)",
+  "history": [
+    {
+      "root_digest": "0fcd4ddc4bd5148f542fc9c4d5bc756d319c5c1fb7b7d6013c7fb124e29177b9",
+      "sequence": 1
+    }
+  ],
+  "root_digest": "0fcd4ddc4bd5148f542fc9c4d5bc756d319c5c1fb7b7d6013c7fb124e29177b9",
+  "schema_version": 2,
+  "sequence": 1,
+  "skill_count": 1,
+  "skills": [
+    {
+      "declared_name": "premise-and-config-audit",
+      "digest": "b816fe0e4e4a91c7fdeedf22b10ab9a3eb1ce2beb89075ddfbb2fd568139c8c0",
+      "file_count": 1,
+      "has_description": true,
+      "path": "."
+    }
+  ],
+  "validated_against": []
+}
